@@ -15,10 +15,9 @@ Transaction Hash:
 https://kovan.etherscan.io/address/0x662f1545b26cde11f38ae897f228777401b7e07f
 
 
-![image](dog.jpg)
-
-
 # Pupper
+![image](dogs.JPG)
+
 In this contract, 10,000 wei are minted and offered for sale. Metamask can be used to add the custom token. Transfers are shown below.
 
 Deployed on Ropsten Testnet
@@ -31,8 +30,8 @@ https://ropsten.etherscan.io/tx/0xfc4265c92dbe1706fb540fac1b4dd63529945a6e898643
 ![image](Metamask_coin_to_contract.jpg)
 
 
-![image](ether_scan.PNG)
+![image](ether_scan.JPG)
 
-![image](mint_total_supply.PNG)
+![image](mint_total_supply.JPG)
 
-![image](500PCinMInter.jpg)
+![image](500PCinMInter.JPG)
